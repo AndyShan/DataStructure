@@ -4,7 +4,7 @@ import org.omg.CORBA.Any;
 
 public class AvlTree<AnyType extends Comparable<? super AnyType>> {
 	/*
-	 * avl树节点定义内部类
+	 * avl树节点内部类
 	 */
 	private static class AvlNode<AnyType> {
 		AvlNode(AnyType element) {
