@@ -1,5 +1,8 @@
 package set_map;
-
+/*
+ * 该程序为set和map的应用实例
+ * 输入一个单词集，找出其中所有改变一个字母就能变成另一个单词的单词
+ */
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
